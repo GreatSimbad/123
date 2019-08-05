@@ -1,0 +1,26 @@
+style.css
+Body {
+	font-size: 14 px;
+	background: url (files/Zad.jpg);
+}
+
+header {
+	
+}
+
+.pic1 {
+	url: (files/Pica-pica.jpg);
+	text-align: left;
+	width: 70px;
+	high: 120px;
+}
+
+.Pic-pic {
+	url: (files/Vlad.jpg);
+	text-align: right;
+	width: 70px;
+	high: 120px;
+}
+.picnav {
+	background: url(files/Untitled.png);
+}
