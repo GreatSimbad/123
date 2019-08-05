@@ -7,6 +7,10 @@ header {
 	
 }
 
+.pics {
+	background: url (files/Zad.jpg);
+}
+
 .pic1 {
 	url: (files/Pica-pica.jpg);
 	text-align: left;
