@@ -21,9 +21,9 @@ h1 {
 }
 
 .Monobank {
-size: 30%;
+width: 30%;
 text-align: left;
-padding: right 15px; 
+/** padding: right 15px; **/
 }
 
 .Vlad {
