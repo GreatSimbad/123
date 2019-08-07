@@ -1,6 +1,7 @@
 Body {
 	font-size: 14 px;
 	background: url(files/Zad.jpg) no-repeat top;
+	background-size: 100%;
 }
 
 header {
