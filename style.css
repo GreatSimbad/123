@@ -1,6 +1,6 @@
 Body {
 	font-size: 14px;
-	color: #555555; 
+	color: #999999; 
 	background: url(files/Zad.jpg) no-repeat;
 	background-size: cover;
 }
@@ -10,7 +10,7 @@ header {
 	color: #555555; 
 	backgraund: url(files/Untitled.png) no-repeat center top;
 	text-align: center;
-	backgraund: url(files/Monobank-card.png);
+	/** backgraund: url(files/Monobank-card.png); **/
 }
 
 .topchik {
@@ -19,6 +19,10 @@ header {
 
 .Monobank {
 padding: right 15px; 
+}
+
+.Vlad {
+text-align: left;
 }
 
 .pics {
