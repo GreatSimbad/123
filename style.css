@@ -1,6 +1,6 @@
 Body {
-	font-size: 14px;
-	color: #999999; 
+	font-size: 18px;
+	color: #444444; 
 	background: url(files/Zad.jpg) no-repeat;
 	background-size: cover;
 }
@@ -26,6 +26,10 @@ padding: right 15px;
 
 .Vlad {
 text-align: left;
+}
+
+.Stas {
+text-align: right;
 }
 
 .pics {
