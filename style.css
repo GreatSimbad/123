@@ -10,7 +10,7 @@ header {
 	color: #555555; 
 	backgraund: url(files/Untitled.png) no-repeat center top;
 	text-align: center;
-	backgraund: url(files/Monobank-card.png) no-repeat center left;
+	backgraund: url(files/Monobank-card.png);
 }
 
 .topchik {
