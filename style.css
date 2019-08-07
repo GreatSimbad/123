@@ -1,5 +1,6 @@
 Body {
 	font-size: 14 px;
+	color: grey; 
 	background: url(files/Zad.jpg) no-repeat;
 	background-size: cover;
 }
