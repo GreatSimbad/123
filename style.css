@@ -17,7 +17,7 @@ h1 {
 }
 .topchik {
 background: url(files/Untitled.png);
- text-align: no-repeat top center;
+float: center;
   position: relative;
 }
 
