@@ -8,9 +8,9 @@ Body {
 header {
 	Font-size: 28px;
 	color: #555555; 
-	backgraund: url(123/files/Untitled.png) no-repeat center top;
+	backgraund: url(files/Untitled.png) no-repeat center top;
 	text-align: center;
-	backgraund: url(123/files/Monobank-card.png) no-repeat center left;
+	backgraund: url(files/Monobank-card.png) no-repeat center left;
 }
 
 .topchik {
