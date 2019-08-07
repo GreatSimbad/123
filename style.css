@@ -12,6 +12,8 @@ header {
 	text-align: center;
 	/** backgraund: url(files/Monobank-card.png); **/
 }
+h1 {
+	position: absolute;
 
 .topchik {
  text-align: no-repeat top center;
