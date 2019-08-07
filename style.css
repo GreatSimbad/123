@@ -13,6 +13,10 @@ header {
 	backgraund: url(123/files/Monobank-card.png) no-repeat center left;
 }
 
+.topchik {
+ text-align: no-repeat top center;
+}
+
 .Monobank {
 padding: right 15px; 
 }
