@@ -1,12 +1,20 @@
 Body {
-	font-size: 14 px;
-	color: #930; 
+	font-size: 14px;
+	color: #555555; 
 	background: url(files/Zad.jpg) no-repeat;
 	background-size: cover;
 }
 
 header {
-	
+	Font-size: 28px;
+	color: #555555; 
+	backgraund: url(123/files/Untitled.png) no-repeat center top;
+	text-align: center;
+	backgraund: url(123/files/Monobank-card.png) no-repeat center left;
+}
+
+.Monobank {
+padding: right 15px; 
 }
 
 .pics {
