@@ -1,7 +1,7 @@
 Body { <!DOCTYPE html>
 	lang: ru;
 	font-size: 18px;
-	color: #555555; 
+	color: gray; 
 	background: url(files/Zad.jpg) no-repeat;
 	background-size: cover;
 }
