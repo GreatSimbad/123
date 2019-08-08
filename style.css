@@ -18,6 +18,14 @@ h1 {
 	position: top;
 	vison: top;
 }
+
+.text {
+text-align: center;
+Padding-right: auto;
+width: 715px;
+Height: 65px;
+}
+
 .topchik {
 padding-top:20px;
 width:715px;
