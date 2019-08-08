@@ -81,8 +81,16 @@ Body {
 width: 715px;
 height: 65px;
 background: url(files/Untitled.png);
+margine: center;
+	
 }
 
+.main {
+width: 715px;
+height: 65px;
+	Margin: center;
+}
+	
 
 
 	
