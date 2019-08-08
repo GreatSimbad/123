@@ -17,7 +17,7 @@ h1 {
 }
 .topchik {
 /** background: url(files/Untitled.png); **/ 
-float: center;
+float: none;
 position: relative;
 }
 
@@ -45,14 +45,14 @@ text-align: right;
 	url: (files/Pica-pica.jpg);
 	text-align: left;
 	width: 70px;
-	high: 120px;
+	height: 120px;
 }
 
 .Pic-pic {
 	url: (files/Vlad.jpg);
 	text-align: right;
 	width: 70px;
-	high: 120px;
+	height: 120px;
 }
 .picnav {
 	background: url(files/Untitled.png);
