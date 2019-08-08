@@ -1,5 +1,4 @@
-Body { <!DOCTYPE html>
-	lang: ru;
+/** Body { 	lang: ru;
 	font-size: 18px;
 	color: gray; 
 	background: url(files/Zad.jpg) no-repeat;
@@ -10,9 +9,9 @@ header {
 	padding-top: -15px;
 	Font-size: 22px;
 	color: #555555; 
-	/** backgraund: url(files/Untitled.png) no-repeat center top; **/ 
+	/** backgraund: url(files/Untitled.png) no-repeat center top; 
 	text-align: center;
-	/** backgraund: url(files/Monobank-card.png); **/
+	/** backgraund: url(files/Monobank-card.png); 
 }
 h1 {
 	position: top;
@@ -40,7 +39,7 @@ background-image:url("123/files/Untitled.png");
     margin-left: 10px;
     display: block;
     text-align: left;
-/** padding: right 15px; **/
+/** padding: right 15px; 
 }
 
 .Vlad {
@@ -70,4 +69,14 @@ text-align: right;
 }
 .picnav {
 	background: url(files/Untitled.png);
+} **/
+
+Body {
+	font-size: 14px;
+	background: url(files/Zad.jpg) no-repeat;
+	background-size: cover;
 }
+
+
+	
+
