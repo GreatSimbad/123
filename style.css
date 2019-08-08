@@ -1,4 +1,5 @@
-Body {
+Body { <!DOCTYPE html>
+	lang: ru;
 	font-size: 18px;
 	color: #555555; 
 	background: url(files/Zad.jpg) no-repeat;
@@ -17,9 +18,11 @@ h1 {
 	vison: top;
 }
 .topchik {
-background: url(files/Untitled.png);
-margin: center;
-position: relative;
+padding-top:20px;
+width:173px;
+padding-left:20px;
+height:117px;
+background-image:url("/examples/20120821/bg.png");
 }
 
 .Monobank {
