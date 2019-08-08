@@ -29,7 +29,8 @@ background-image:url("/examples/20120821/bg.png");
 .Monobank {
 float: left;
 margin: 0 0 5px 5px;
-width: 30%;
+width: 150px;
+Height: 75px;	
 text-align: left;
 /** padding: right 15px; **/
 }
