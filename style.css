@@ -7,7 +7,8 @@ Body { <!DOCTYPE html>
 }
 
 header {
-	Font-size: 26px;
+	padding-top: -15px;
+	Font-size: 24px;
 	color: #555555; 
 	/** backgraund: url(files/Untitled.png) no-repeat center top; **/ 
 	text-align: center;
