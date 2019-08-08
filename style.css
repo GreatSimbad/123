@@ -27,11 +27,11 @@ background-image:url("/examples/20120821/bg.png");
 }
 
 .Monobank {
-float: left;
-margin: 0 0 5px 5px;
-width: 150px;
-Height: 75px;	
-text-align: left;
+    width: 30%;
+    height: auto;
+    margin-left: 10px;
+    display: block;
+    text-align: left;
 /** padding: right 15px; **/
 }
 
