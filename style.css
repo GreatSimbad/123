@@ -86,7 +86,7 @@ margine: center;
 }
 
 .main {
-	position	: relative;
+	position	: absolute;
 }
 
 h2 {
