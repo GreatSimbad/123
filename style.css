@@ -120,7 +120,8 @@ Margine: center;
 }
 
 Header {
-	top: 0px;
+	border-top: 0px;
+	
 }
 
 
