@@ -110,10 +110,11 @@ Margine: center;
 	text-align: center;
 	top: 0px;
 	borders: 0px;
+	padding-right: 20px;
 }
 
 .Mono {
-	width: 15%;
+	width: 30%;
 	margine: left;
 }
 
