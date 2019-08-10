@@ -81,6 +81,7 @@ Body {
 width: 715px;
 height: 65px;
 margine: center;
+	position: static;
 	
 }
 
