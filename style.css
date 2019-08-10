@@ -1,32 +1,45 @@
-Body {
+/** Body { 	lang: ru;
 	font-size: 18px;
-	color: #555555; 
+	color: gray; 
 	background: url(files/Zad.jpg) no-repeat;
 	background-size: cover;
 }
 
 header {
-	Font-size: 26px;
+	padding-top: -15px;
+	Font-size: 22px;
 	color: #555555; 
-	/** backgraund: url(files/Untitled.png) no-repeat center top; **/ 
+	/** backgraund: url(files/Untitled.png) no-repeat center top; 
 	text-align: center;
-	/** backgraund: url(files/Monobank-card.png); **/
+	/** backgraund: url(files/Monobank-card.png); 
 }
 h1 {
-	position: absolute;
+	position: top;
+	vison: top;
 }
+
+.text {
+text-align: center;
+Padding-right: auto;
+width: 715px;
+Height: 65px;
+}
+
 .topchik {
-/** background: url(files/Untitled.png); **/ 
-float: none;
-position: relative;
+padding-top:20px;
+width:715px;
+padding-left:20px;
+height:65px;
+background-image:url("123/files/Untitled.png");
 }
 
 .Monobank {
-float: left;
-margin: 0 0 5px 5px;
-width: 30%;
-text-align: left;
-/** padding: right 15px; **/
+    width: 30%;
+    height: auto;
+    margin-left: 10px;
+    display: block;
+    text-align: left;
+/** padding: right 15px; 
 }
 
 .Vlad {
@@ -56,4 +69,66 @@ text-align: right;
 }
 .picnav {
 	background: url(files/Untitled.png);
+} **/
+
+Body {
+	font-size: 18px;
+	background: url(files/Zad.jpg) no-repeat;
+	background-size: cover;
 }
+
+.topchik {
+width: 715px;
+height: 65px;
+margine: center;
+	position: absolute;
+	Padding-left: 200 px;
+	text-align: center;
+	bottom: 20px;
+	
+}
+
+.main {
+	position	: absolute;
+	
+}
+
+h1 {
+	text-align: center;
+	margine: center;
+	position	: absolute;
+	top		: 0px;
+	left		: 0;
+	width		: 100%;
+}
+
+.middle {
+Margine: center;
+}
+
+.fig {
+	text-align: center;
+	top: 0px;
+	borders: 0px;
+	padding-right: 20px;
+	Bottom: 20px;
+}
+
+.Mono {
+	width: 60%;
+	margine: left;
+}
+
+/** Header {
+	border-top: 0px;
+	
+} **/
+
+
+
+	
+	
+
+
+	
+
