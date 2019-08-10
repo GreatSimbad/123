@@ -125,11 +125,11 @@ Margine: center;
 } **/
 
 .text {
+	text-align: middle;
 	width: 800px;
 	margin-left: auto;
     margin-right: auto;
-    width: 6em
-}
+ }
 
 
 
