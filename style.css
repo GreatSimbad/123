@@ -91,7 +91,7 @@ margine: center;
 
 h1 {
 	position	: absolute;
-	top		: 200px;
+	top		: 0px;
 	left		: 0;
 	width		: 100%;
 }
