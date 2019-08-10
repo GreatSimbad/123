@@ -82,14 +82,17 @@ width: 715px;
 height: 65px;
 margine: center;
 	position: absolute;
+	text-align: center;
 	
 }
 
 .main {
 	position	: absolute;
+	
 }
 
 h1 {
+	text-align: center;
 	margine: center;
 	position	: absolute;
 	top		: 0px;
